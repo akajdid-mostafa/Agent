@@ -10,3 +10,4 @@ Influmaroc: 2025-07-09 16:13:00 - Commit 4
 influmatch: refactor code (2025-07-09)
 influmatch: update user interface (2025-07-10)
 influmatch: update user interface (2025-07-10)
+influmatch: update documentation (2025-07-10)
