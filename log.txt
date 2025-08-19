@@ -298,3 +298,4 @@ influmatch: implement API endpoint (2025-08-19) - commit 7 of 22
 influmatch: add page button (2025-08-19) - commit 8 of 22
 influmatch: add file config (2025-08-19) - commit 9 of 22
 influmatch: update documentation (2025-08-19) - commit 10 of 22
+influmatch: fix minor bug (2025-08-19) - commit 11 of 22
