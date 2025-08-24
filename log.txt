@@ -322,3 +322,4 @@ influmatch: add page button (2025-08-24) - commit 9 of 26
 influmatch: update user interface (2025-08-24) - commit 10 of 26
 influmatch: update user interface (2025-08-24) - commit 11 of 26
 influmatch: add file config (2025-08-24) - commit 12 of 26
+influmatch: update documentation (2025-08-24) - commit 13 of 26
