@@ -330,3 +330,4 @@ influmatch: fix minor bug (2025-08-24) - commit 17 of 26
 influmatch: update user interface (2025-08-24) - commit 18 of 26
 influmatch: add file config (2025-08-24) - commit 19 of 26
 influmatch: add file config (2025-08-24) - commit 20 of 26
+influmatch: update documentation (2025-08-24) - commit 21 of 26
