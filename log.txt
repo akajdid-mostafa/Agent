@@ -317,3 +317,4 @@ influmatch: refactor code (2025-08-24) - commit 4 of 26
 influmatch: implement API endpoint (2025-08-24) - commit 5 of 26
 influmatch: update user interface (2025-08-24) - commit 6 of 26
 influmatch: refactor code (2025-08-24) - commit 7 of 26
+influmatch: add file config (2025-08-24) - commit 8 of 26
