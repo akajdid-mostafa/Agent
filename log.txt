@@ -368,3 +368,4 @@ influmatch: add new feature (2025-08-26) - commit 9 of 14
 influmatch: update documentation (2025-08-26) - commit 10 of 14
 influmatch: add new feature (2025-08-26) - commit 11 of 14
 influmatch: add file config (2025-08-26) - commit 12 of 14
+influmatch: optimize database query (2025-08-26) - commit 13 of 14
