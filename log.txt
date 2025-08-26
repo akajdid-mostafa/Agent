@@ -358,3 +358,4 @@ influmatch: update documentation (2025-08-25) - commit 19 of 20
 influmatch: fix minor bug (2025-08-25) - commit 20 of 20
 influmatch: add page button (2025-08-26) - commit 1 of 14
 influmatch: fix minor bug (2025-08-26) - commit 2 of 14
+influmatch: update user interface (2025-08-26) - commit 3 of 14
