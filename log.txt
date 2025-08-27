@@ -377,3 +377,4 @@ influmatch: optimize database query (2025-08-27) - commit 4 of 15
 influmatch: update user interface (2025-08-27) - commit 5 of 15
 influmatch: update user interface (2025-08-27) - commit 6 of 15
 influmatch: fix minor bug (2025-08-27) - commit 7 of 15
+influmatch: update documentation (2025-08-27) - commit 8 of 15
